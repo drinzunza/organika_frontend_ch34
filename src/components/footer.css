@@ -1,9 +1,11 @@
 
 .footer {
-    background-color: #bcbcbc;
+    background-color: #dadada;
+    padding: 15px 0 10px 0;
+    font-size: 12px;
 }
 
 .footer label {
-    color: #333;
+    color: rgb(35, 35, 35);
     text-decoration: underline;    
 }

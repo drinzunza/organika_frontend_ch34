@@ -1,0 +1,7 @@
+# change folder in terminal
+cd <drag folder here>
+
+
+# start react project
+npm start
+

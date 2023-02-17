@@ -1,0 +1,20 @@
+.not-found {
+  background-color: #eaeced;
+  min-height: 97vh;
+  position: relative;
+
+  background: url('/public/images/404.png');
+}
+
+.not-found img {
+  float: left;
+  margin-left: 15%;
+}
+
+.not-found .error-text {
+  position: absolute;
+  width: 200px;
+  top: 50%;
+  left: 51%;
+  transform: translate(-50%, -50%);
+}

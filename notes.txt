@@ -5,3 +5,16 @@ cd <drag folder here>
 # start react project
 npm start
 
+
+# see current repo url
+git remote -v
+
+
+# to change it
+# remove the old one
+git remote rm origin
+
+# add a new repo
+git remote add origin <url>
+
+

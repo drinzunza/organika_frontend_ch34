@@ -1,0 +1,17 @@
+
+
+.admin {
+    background-color: #ededed;
+    min-height: 89vh;
+}
+
+.admin h1 {
+    text-align: center;
+    padding-top: 10px;
+    color: #899087;
+}
+
+.admin .parent {
+    display: flex;
+    justify-content: space-around;
+}

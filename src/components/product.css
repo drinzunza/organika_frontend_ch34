@@ -33,3 +33,18 @@
     width: 220px;
     height: 195px;
 }
+
+
+@media (max-width: 400px) {
+    .product {
+        width: 87%;
+        margin-left: 2%;
+        height: auto;
+    }
+
+    .product  img {
+        width: 90%;
+        height: auto;
+        max-height: 500px;
+    }
+}

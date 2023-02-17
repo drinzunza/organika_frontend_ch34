@@ -1,0 +1,15 @@
+
+.about {
+    background-color: rgb(239, 242, 245);
+    text-align: center;
+    min-height: 89vh;
+}
+
+.about button {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.about h6 {
+    color: tomato;
+}
